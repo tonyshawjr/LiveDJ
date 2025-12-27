@@ -6,6 +6,8 @@ A self-hosted web app that displays "radio DJ" style commentary when you play mu
 
 **[Changelog](CHANGELOG.md)** · **[Roadmap](CHANGELOG.md#roadmap)**
 
+![LiveDJ Screenshot](screenshot.png)
+
 ## What It Does
 
 When a song plays, LiveDJ:
@@ -25,10 +27,6 @@ Think of it like having a knowledgeable radio DJ introducing every song you play
 - **Beautiful Display**: Album art, artist photos, and rotating info slides
 - **Smart Caching**: Notes are cached so each artist/album only costs one API call ever
 - **Self-Hosted**: Your data stays on your server
-
-## Screenshots
-
-*Coming soon*
 
 ## Requirements
 
