@@ -1,6 +1,6 @@
 # LiveDJ
 
-A self-hosted web app that displays "radio DJ" style commentary when you play music through Plex or Spotify. Perfect for displaying on a car screen (Tesla browser, CarPlay, etc.) or any second screen.
+A self-hosted web app that displays "radio DJ" style commentary when you play music through Plex or Spotify. Perfect for displaying on a Tesla browser, tablet, or any second screen.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple) ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -108,7 +108,7 @@ Open `https://yourdomain.com/` in your car browser or any screen. The page auto-
 ## Tips
 
 - **Tesla**: Works great in the Tesla browser. Bookmark the display URL.
-- **CarPlay**: Use a web browser app that supports CarPlay.
+- **Tablet**: Mount a tablet on your dash and open the display.
 - **Caching**: First play of an artist/album generates notes. Subsequent plays are instant.
 - **TTS Cache**: Audio files auto-delete after 7 days.
 
