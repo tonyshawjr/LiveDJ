@@ -1,0 +1,20 @@
+# Config with secrets
+config.php
+
+# Cache
+tts-cache/*.mp3
+tts-cache/*.wav
+
+# Mac
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+error_log
