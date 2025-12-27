@@ -103,7 +103,7 @@ For TTS, OpenAI gives the best quality (~$0.003 per song intro).
 
 ## Display URL
 
-Open `https://yourdomain.com/display.php` in your car browser or any screen. The page auto-updates when songs change.
+Open `https://yourdomain.com/` in your car browser or any screen. The page auto-updates when songs change.
 
 ## Tips
 
