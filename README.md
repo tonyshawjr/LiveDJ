@@ -75,10 +75,7 @@ Think of it like having a knowledgeable radio DJ introducing every song you play
 2. Add redirect URI: `https://yourdomain.com/api/spotify-callback.php`
 3. Enter Client ID and Secret in dashboard
 4. Click "Connect Spotify"
-5. Set up a cron job to poll every 5-10 seconds:
-   ```
-   */5 * * * * * curl -s https://yourdomain.com/api/spotify-poll.php > /dev/null
-   ```
+5. Open the display page - it automatically polls for track changes
 
 ## File Structure
 
